@@ -6,10 +6,10 @@ export default {
   city: "Raleigh",
   region: "Wake and Johnston counties",
 
-  // Replace with the call-tracking number before launch.
-  phone: "(919) 000-0000",
-  phoneHref: "+19190000000",
-  phoneIsPlaceholder: true,
+  // Twilio number. Calls forward per twilio/call.js.
+  phone: "(984) 400-4942",
+  phoneHref: "+19844004942",
+  phoneIsPlaceholder: false,
 
   // Form handler URL (CallRail form tracking, Formspree, etc.).
   // Leave empty to hide the form and show only the call button.

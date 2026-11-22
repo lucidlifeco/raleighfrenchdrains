@@ -3,7 +3,7 @@
 A plain static site built with Eleventy. Pages are Markdown files in `src/`, and the template does the rest.
 
 ## Before launch
-1. In `src/_data/site.js`, replace `phone` and `phoneHref` with the call-tracking number and set `phoneIsPlaceholder: false`.
+1. Phone: (984) 400-4942 (Twilio). The call flow is `twilio/call.js`, deployed as a Twilio Function at path `/call`. To send calls to a renter, change the `FORWARD_TO` environment variable in Twilio. The site doesn't change.
 2. Optional: set `formEndpoint` to your form handler (CallRail form tracking, Formspree, etc.). If it's empty, the form stays hidden and only the call button shows.
 3. Set up `info@raleighfrenchdrains.com` with Cloudflare Email Routing (free), forwarding to your inbox.
 4. The privacy policy and terms are plain-language templates, not legal advice.
