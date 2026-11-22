@@ -1,0 +1,16 @@
+<section class="cta" id="estimate">
+  <h2>Talk to a local drainage contractor</h2>
+  <p>Describe where the water collects and what you've tried. We'll connect you with an independent drainage contractor who works in {{ site.city }} and the surrounding towns.</p>
+  <p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call {{ site.phone }}</a></p>
+  {% if site.formEndpoint %}
+  <form class="lead-form" method="post" action="{{ site.formEndpoint }}">
+    <label>Name <input name="name" autocomplete="name" required></label>
+    <label>Phone <input name="phone" type="tel" autocomplete="tel" required></label>
+    <label>Town or ZIP <input name="location" autocomplete="postal-code"></label>
+    <label>What's going on? <textarea name="message" rows="4" placeholder="Example: water pools by the back patio after every storm"></textarea></label>
+    <input type="hidden" name="page" value="{{ page.url }}">
+    <button type="submit">Request a call back</button>
+    <p class="small">By sending this form you agree that we can share your details with one local drainage contractor so they can contact you.</p>
+  </form>
+  {% endif %}
+</section>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="/css/style.css">
+  {% if jsonld %}<script type="application/ld+json">{{ jsonld | safe }}</script>{% endif %}
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <a class="brand" href="/">{{ site.name }}</a>
+      <a class="call-btn" href="tel:{{ site.phoneHref }}">Call {{ site.phone }}</a>
+    </div>
+  </header>
+
+  <main class="wrap">
+    {{ content | safe }}
+    {% include "cta.njk" %}
+  </main>
+
+  <footer class="foot">
+    <div class="wrap">
+      <p><strong>Areas served:</strong> {{ site.areas | join(", ") }}, and nearby parts of {{ site.region }}.</p>
+      <nav class="foot-nav">
+        <strong>Services:</strong>
+        <a href="/french-drain-installation/">French drains</a>
+        <a href="/yard-grading-swales/">Regrading &amp; swales</a>
+        <a href="/catch-basins/">Catch basins</a>
+        <a href="/underground-downspouts/">Downspout drains</a>
+        <a href="/dry-wells/">Dry wells</a>
+      </nav>
+      <nav class="foot-nav">
+        <strong>Help:</strong>
+        <a href="/french-drain-cost-raleigh/">French drain cost</a>
+        <a href="/standing-water-in-yard/">Standing water</a>
+        <a href="/water-pooling-by-foundation/">Water by the foundation</a>
+        <a href="/cary/">Cary</a>
+        <a href="/apex/">Apex</a>
+      </nav>
+      <nav class="foot-nav">
+        <a href="/">Home</a>
+        <a href="/how-this-works/">How this works</a>
+        <a href="/privacy/">Privacy</a>
+        <a href="/terms/">Terms</a>
+      </nav>
+      <p class="disclosure">{{ site.name }} is a free referral service, not a contractor. When you call or send a request, we connect you with an independent local drainage contractor, and we may be paid by the contractors we connect you with. Contractors are independent businesses, so ask for proof of license and insurance before you hire. Calls may be recorded for quality and accountability.</p>
+      <p class="small">&copy; {{ site.year }} {{ site.name }}</p>
+    </div>
+  </footer>
+
+  <a class="sticky-call" href="tel:{{ site.phoneHref }}">Call now: {{ site.phone }}</a>
+</body>
+</html>
