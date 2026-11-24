@@ -1,7 +1,8 @@
 // Raleigh French Drains call flow (Twilio Function, path: /call)
 //
 // What it does:
-//   1. Tells the caller the call may be recorded.
+//   1. Tells the caller the call may be recorded and that a missed call may get a text back
+//      (this spoken notice is the opt-in for the A2P campaign).
 //   2. Rings FORWARD_TO for up to 30 seconds and records the call.
 //   3. When you answer, you hear "Raleigh drains lead. Press 1 to take the call."
 //      If nobody presses 1 (for example, your voicemail picks up), the call is dropped.
@@ -19,7 +20,10 @@ exports.handler = async function (context, event, callback) {
   const step = event.step || "start";
 
   if (step === "start") {
-    twiml.say("This call may be recorded.");
+    twiml.say(
+      "This call may be recorded. If we miss your call, we may text you back at this number. " +
+        "Message and data rates may apply. Reply STOP to opt out."
+    );
     const dial = twiml.dial({
       timeout: 30,
       action: "/call?step=after",
