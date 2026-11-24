@@ -85,3 +85,8 @@ th { background: #f2f5f8; }
   .menu-group { position: relative; }
   .menu-panel { right: auto; min-width: 260px; border-radius: 0 0 6px 6px; }
 }
+
+@media (max-width: 480px) {
+  .menu-inner { padding: 0 6px; gap: 0; justify-content: space-between; }
+  .menu-link, .menu-group > summary { padding: 10px 8px; font-size: 0.92rem; }
+}

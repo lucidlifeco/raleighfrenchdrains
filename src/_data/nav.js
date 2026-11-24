@@ -8,6 +8,10 @@ export default [
     { label: "Dry wells", url: "/dry-wells/" },
   ]},
   { label: "Costs", url: "/french-drain-cost-raleigh/" },
+  { label: "DIY", items: [
+    { label: "DIY French drain vs. a pro", url: "/diy-french-drain/" },
+    { label: "DIY downspout drainage vs. a pro", url: "/diy-downspout-drainage/" },
+  ]},
   { label: "Help", items: [
     { label: "Standing water in your yard", url: "/standing-water-in-yard/" },
     { label: "Water by the foundation", url: "/water-pooling-by-foundation/" },

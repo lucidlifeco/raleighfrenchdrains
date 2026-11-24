@@ -61,5 +61,5 @@ Drainage fixes that don't add hard surface, like a [French drain](/french-drain-
 <li id="s1">Town of Holly Springs, <a href="https://hollyspringsnc.gov/2179">Property information</a></li>
 <li id="s2">UNC School of Government, <a href="https://sog.unc.edu/sites/default/files/pji-master-2024/civil/805.26%20Private%20Nuisance%20-%20Nuisance%20by%20Waterflow.pdf">N.C. Pattern Jury Instruction 805.26</a>, citing <em>Pendergrast v. Aiken</em>, 293 N.C. 201 (1977)</li>
 <li id="s3">Angi, <a href="https://www.angi.com/articles/how-much-does-it-cost-install-landscape-drainage/nc/raleigh">How much does yard drainage cost in Raleigh, NC?</a></li>
-<li id="s4">Town of Rocky Mount, <a href="https://cityofrockymount.hosted.civiclive.com/departments/energy_resources/electric/safety/call_before_you_dig">Call before you dig</a> (summarizing North Carolina 811 law)</li>
+<li id="s4">North Carolina 811, <a href="https://nc811.org/?p=194">The 811 process</a></li>
 </ol>
