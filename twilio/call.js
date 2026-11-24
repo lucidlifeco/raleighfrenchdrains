@@ -28,6 +28,7 @@ exports.handler = async function (context, event, callback) {
   } else if (step === "whisper") {
     // Prompt plays twice, then waits 15 seconds for a key press (about 25 seconds total).
     const gather = twiml.gather({ numDigits: 1, timeout: 15, action: "/call?step=accept" });
+    gather.pause({ length: 1 }); // let the phone finish connecting so the start isn't clipped
     gather.say("Raleigh drains lead. Press 1 to take the call.");
     gather.pause({ length: 2 });
     gather.say("Press 1 to take the call.");
