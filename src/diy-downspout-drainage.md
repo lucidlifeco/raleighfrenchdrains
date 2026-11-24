@@ -31,6 +31,8 @@ Downspouts are the one drainage problem where some real fixes are true DIY jobs.
 
 **Clean the gutters.** Clogged gutters overflow at the house no matter where the downspouts end.
 
+{% figure "downspout-rock-bed.webp", "A downspout emptying onto a rock bed beside a wall, with a green watering can", "A rock bed stops erosion, but the water still lands next to the house.", 800, 876 %}
+
 ## The step up: burying a line
 
 Above-ground extensions get kicked, mowed over and moved. The next step is burying the pipe, and this is where DIY gets harder.

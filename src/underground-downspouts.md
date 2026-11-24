@@ -22,6 +22,8 @@ Your roof collects a surprising amount of water, and the downspouts drop all of 
 <p class="top-cta">Soggy spots at the downspouts? Ask a local pro.</p>
 <p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
+{% figure "downspout-gushing-rain.webp", "Rainwater pouring out of a downspout onto wet pavement during a storm", "In a heavy rain, each downspout dumps a steady stream right at the house.", 1100, 825 %}
+
 ## How much water we're talking about
 
 An inch of rain on one acre is about 27,154 gallons.<sup><a href="#s1">1</a></sup> Scaled to a 2,000-square-foot roof, that's roughly **1,250 gallons per inch of rain**, split among just a few downspouts.

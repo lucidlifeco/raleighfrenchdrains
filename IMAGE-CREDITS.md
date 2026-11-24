@@ -9,5 +9,8 @@ Photos are from Pexels (free for commercial use, no attribution required). Kept 
 | src/img/muddy-drainage-trench.webp | pexels-hosny-salah-21693143-35934184 |
 | src/img/standing-water-lawn.webp | pexels-damir-15081574 (cropped) |
 | src/img/flooded-backyard-rain.webp | pexels-scott-neil-302581859-15093935 (cropped) |
+| src/img/downspout-gushing-rain.webp | pexels-terrance-moon-159773-529964 |
+| src/img/downspouts-at-foundation.webp | pexels-robertkso-12343741 (cropped) |
+| src/img/downspout-rock-bed.webp | pexels-alexfalconer-8500497 (cropped) |
 
 Diagrams (*.svg) are original.

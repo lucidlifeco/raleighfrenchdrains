@@ -12,6 +12,8 @@ Water that sits against your foundation is the drainage problem to fix first. It
 <p class="top-cta">Water against the foundation is the one to fix first. Call a local pro.</p>
 <p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
+{% figure "downspouts-at-foundation.webp", "Downspouts ending just inches from a building's foundation", "Downspouts that end at the wall send roof water straight to the foundation.", 800, 844 %}
+
 ## The slope your yard should have
 
 The International Residential Code, which North Carolina's residential code is based on,<sup><a href="#s1">1</a></sup> calls for the ground to fall **at least 6 inches within the first 10 feet** from the foundation.<sup><a href="#s2">2</a></sup> Where a lot line or wall makes that impossible, drains or swales should carry water away instead, and patios, walks, and driveways within 10 feet of the house should slope away at **at least 2 percent**.<sup><a href="#s3">3</a></sup>
