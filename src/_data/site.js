@@ -4,7 +4,7 @@ export default {
   name: "Raleigh French Drains",
   url: "https://raleighfrenchdrains.com",
   city: "Raleigh",
-  region: "Wake and Johnston counties",
+  region: "Wake, Durham and Johnston counties",
 
   // Twilio number. Calls forward per twilio/call.js.
   phone: "(984) 400-4942",
@@ -22,6 +22,6 @@ export default {
 
   areas: [
     "Raleigh", "Cary", "Apex", "Wake Forest", "Holly Springs",
-    "Fuquay-Varina", "Garner", "Knightdale", "Clayton", "Morrisville",
+    "Fuquay-Varina", "Garner", "Knightdale", "Clayton", "Morrisville", "Durham",
   ],
 };

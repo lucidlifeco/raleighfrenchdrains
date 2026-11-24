@@ -87,4 +87,4 @@ Most yard French drains in Raleigh cost about **$20 to $50 per foot** installed,
 
 {% figure "raleigh-fayetteville-street.webp", "Fayetteville Street in downtown Raleigh lined with North Carolina flags, looking toward the State Capitol", "Local pros serving Raleigh and the surrounding Wake County towns.", 1100, 572 %}
 
-{{ site.areas | join(", ") }}, and nearby parts of {{ site.region }}. Town guides: [Cary](/cary/), [Apex](/apex/), [Wake Forest](/wake-forest/) and [Holly Springs](/holly-springs/).
+{{ site.areas | join(", ") }}, and nearby parts of {{ site.region }}. Town guides: [Cary](/cary/), [Apex](/apex/), [Wake Forest](/wake-forest/), [Holly Springs](/holly-springs/), [Garner](/garner/) and [Durham](/durham/).

@@ -24,5 +24,7 @@ export default [
     { label: "Apex", url: "/apex/" },
     { label: "Wake Forest", url: "/wake-forest/" },
     { label: "Holly Springs", url: "/holly-springs/" },
+    { label: "Garner", url: "/garner/" },
+    { label: "Durham", url: "/durham/" },
   ]},
 ];
