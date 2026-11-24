@@ -9,6 +9,8 @@ permalink: /terms/
 
 Last updated November 2026.
 
+**Who runs this site.** {{ site.name }} is operated by Cody Martin.
+
 **Referral service only.** {{ site.name }} connects homeowners with independent drainage contractors. We are not a contractor and don't perform, supervise or guarantee any work.
 
 **Your agreement is with the contractor.** Any estimate, contract, payment, schedule or warranty is between you and the contractor you choose. Check their insurance and any required license before you hire.

@@ -9,6 +9,8 @@ permalink: /privacy/
 
 Last updated November 2026.
 
+**Who runs this site.** {{ site.name }} is operated by Cody Martin.
+
 **What we collect.** When you call, we receive your phone number and a recording and transcript of the call. When you send a request through a form, we receive what you enter, such as your name, phone number, location and a description of your project. Our hosting provider may also log basic technical information like your IP address and browser type.
 
 **How we use it.** We use your information to connect you with one independent local drainage contractor so they can contact you about your project, and to confirm that calls were answered and handled. Recordings and transcripts may be shared with that contractor.
