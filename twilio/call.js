@@ -3,7 +3,8 @@
 // What it does:
 //   1. Tells the caller the call may be recorded.
 //   2. Rings FORWARD_TO for up to 30 seconds and records the call.
-//   3. When you answer, you hear "Raleigh drains lead. Press 1 to take the call."
+//   3. When you answer, you hear "Raleigh drains lead. Press 1 to take the call." twice,
+//      then you have 15 seconds to press 1.
 //      If nobody presses 1 (for example, your voicemail picks up), the call is dropped.
 //   4. If the call isn't connected, you get a push alert and the caller can leave a voicemail.
 //      Call them back fast: texting leads isn't allowed for a referral service (carrier lead-gen rules).
@@ -25,8 +26,11 @@ exports.handler = async function (context, event, callback) {
     });
     dial.number({ url: "/call?step=whisper" }, context.FORWARD_TO);
   } else if (step === "whisper") {
-    const gather = twiml.gather({ numDigits: 1, timeout: 6, action: "/call?step=accept" });
+    // Prompt plays twice, then waits 15 seconds for a key press (about 25 seconds total).
+    const gather = twiml.gather({ numDigits: 1, timeout: 15, action: "/call?step=accept" });
     gather.say("Raleigh drains lead. Press 1 to take the call.");
+    gather.pause({ length: 2 });
+    gather.say("Press 1 to take the call.");
     twiml.hangup();
   } else if (step === "accept") {
     // An empty response connects the call. Anything other than 1 drops it.
