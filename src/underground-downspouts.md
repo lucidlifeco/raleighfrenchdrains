@@ -3,6 +3,16 @@ layout: base.njk
 title: "Underground Downspout Drains in Raleigh, NC"
 description: "How much water your roof sends to your downspouts, why it ends up at your foundation, and what underground downspout lines cost in Raleigh."
 permalink: /underground-downspouts/
+service: "Underground downspout drains"
+faq:
+  - q: "How much water comes off my roof?"
+    a: "An inch of rain on a 2,000-square-foot roof is roughly 1,250 gallons, split among just a few downspouts."
+  - q: "Should downspout lines use solid or perforated pipe?"
+    a: "Solid pipe. You want roof water carried away from the house, not leaking back into the soil next to the foundation."
+  - q: "How much do underground downspout drains cost?"
+    a: "Typically $200 to $2,000 per downspout. A short run to a pop-up emitter is the low end. A long run to the street or a dry well is the high end."
+  - q: "Where can an underground downspout line empty?"
+    a: "A pop-up emitter in the lawn, lower ground or a ditch where allowed, a dry well, or a tie-in to a French drain or catch basin system. Avoid sending the water into a neighbor's yard."
 ---
 
 # Underground Downspout Drains in Raleigh
@@ -26,6 +36,8 @@ A solid pipe connects to the bottom of each downspout, runs underground away fro
 
 Downspout lines should use solid pipe, not perforated. You want roof water carried away, not leaking back into the soil next to the house.
 
+{% figure "underground-downspout.svg", "A downspout connected to a buried solid pipe that runs away from the house to a pop-up emitter in the lawn", "A buried solid pipe carries roof water away from the foundation to a pop-up emitter." %}
+
 ## What it costs
 
 Underground downspout drains typically cost **$200 to $2,000 per downspout**.<sup><a href="#s3">3</a></sup> The low end is a short run to a pop-up emitter. The high end is a long run around the house to the street or a dry well.
@@ -42,6 +54,8 @@ Underground downspout drains typically cost **$200 to $2,000 per downspout**.<su
 - **Clean the gutters first.** Clogged gutters overflow and dump water everywhere, no matter where the downspouts go.
 - **Plan the outlet carefully.** Water sent to a neighbor's yard can create liability under North Carolina's reasonable use rule.<sup><a href="#s4">4</a></sup>
 - **Call 811** at least three full working days before digging.<sup><a href="#s5">5</a></sup>
+
+{% include "faq.njk" %}
 
 <h2 id="sources">Sources</h2>
 <ol class="sources">

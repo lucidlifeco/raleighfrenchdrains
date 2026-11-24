@@ -1,5 +1,12 @@
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
+  eleventyConfig.addPassthroughCopy("src/img");
+
+  // {% figure "file.svg", "Alt text", "Caption", 800, 460 %}
+  // Drop photos in src/img (WebP, under ~100KB) and pass their real width and height.
+  eleventyConfig.addShortcode("figure", (src, alt, caption = "", width = 800, height = 460) =>
+    `<figure class="fig"><img src="/img/${src}" alt="${alt}" width="${width}" height="${height}" loading="lazy" decoding="async">` +
+    (caption ? `<figcaption>${caption}</figcaption>` : "") + `</figure>`);
   eleventyConfig.addPassthroughCopy({ "src/robots.txt": "robots.txt" });
 
   // Warn on every build until the real tracking number is in src/_data/site.json

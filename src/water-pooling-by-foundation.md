@@ -17,6 +17,8 @@ Many homes met that standard when they were built and drifted out of it. Soil se
 
 **A quick check:** lay a straight 10-foot board on the ground, one end against the foundation, and put a level on it. The far end should sit about 6 inches lower than the end at the house.
 
+{% figure "grading-and-swale.svg", "Ground sloping at least 6 inches away from a house in the first 10 feet", "The ground should drop about 6 inches in the first 10 feet from your foundation." %}
+
 ## Common causes
 
 - **Downspouts emptying right at the foundation.** Usually the biggest single source. See [underground downspout lines](/underground-downspouts/).
@@ -33,7 +35,7 @@ Many homes met that standard when they were built and drifted out of it. Soil se
 4. **Install an exterior French drain** to intercept water before it reaches the house. Raleigh yard French drains run about $20 to $50 per foot.<sup><a href="#s6">6</a></sup>
 5. **Interior or crawl space drainage** when water is already getting in. These cost more: about $40 to $85 per foot for an interior basement drain and $20 to $40 per foot for a crawl space drain, nationally.<sup><a href="#s7">7</a></sup>
 
-Most homes need one of the first three. A good contractor will start with the cheapest fix that actually solves the problem.
+Most homes need one of the first three. A good drainage pro will start with the cheapest fix that actually solves the problem.
 
 ## When to get help soon
 

@@ -1,21 +1,23 @@
 ---
 layout: base.njk
 title: "How This Works | Raleigh French Drains"
-description: "Raleigh French Drains is a free referral service that connects homeowners with independent local drainage contractors. Here's how it works."
+description: "Raleigh French Drains connects homeowners with local drainage pros for French drains, regrading, catch basins and more. Here's how it works."
 permalink: /how-this-works/
 ---
 
 # How this works
 
-{{ site.name }} is a free referral service. We are not a contractor, and we don't do drainage work ourselves.
+{{ site.name }} connects homeowners with local drainage pros. We don't do the digging ourselves. We match you with experts who do this work in the {{ site.city }} area.
 
-**When you call or send a request,** we connect you with an independent drainage contractor who works in the {{ site.city }} area. That contractor talks with you, looks at your yard and gives you a price. Whether you hire them is entirely up to you.
+**Call or send a request.** Tell us where the water collects and what you've tried. We connect you with a drainage pro who works in your part of town.
 
-**It's free for homeowners.** We may be paid by the contractors we connect you with.
+**The pro comes out and gives you a price.** They look at your yard, explain what's causing the water problem, and recommend a fix. Whether you hire them is entirely up to you.
 
-**Contractors are independent businesses.** We don't employ them, and they set their own prices, schedules and warranties. Before you hire anyone, ask for proof of insurance and any license that applies to your project, and get the price and scope in writing.
+**It's free for homeowners.** We may be paid by the pros we refer.
 
-**Calls may be recorded** for quality and accountability, so we can confirm that every caller was answered and helped.
+**Each pro runs their own business** and sets their own prices, schedules and warranties. As with any home project, ask for proof of insurance and any license that applies, and get the price and scope in writing.
+
+**Calls may be recorded** so we can confirm every caller was answered and helped.
 
 **Prices on this site are typical ranges** from published cost guides, with sources listed on each page. They're meant to help you budget, not to quote your job.
 

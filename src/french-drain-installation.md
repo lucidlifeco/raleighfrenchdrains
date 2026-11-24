@@ -3,6 +3,18 @@ layout: base.njk
 title: "French Drain Installation in Raleigh, NC"
 description: "How a French drain works, when it's the right fix for a wet Raleigh yard, how installation goes, what it costs, and what to ask before you hire."
 permalink: /french-drain-installation/
+service: "French drain installation"
+faq:
+  - q: "How deep is a French drain?"
+    a: "Exterior French drains are usually about 2 to 3 feet deep, dug with a steady downhill slope from the wet area to the outlet."
+  - q: "Where does the water from a French drain go?"
+    a: "Every French drain needs a lower outlet: the street, a ditch, a dry well, or a pop-up emitter in the lawn. Ask your drainage pro where the water will go and whether that outlet is allowed before work starts."
+  - q: "Should I get a French drain or a swale?"
+    a: "A French drain is the better tool for ground that stays saturated. If water runs across the surface in sheets, a swale or regrading usually handles it for less."
+  - q: "How do you keep a French drain working?"
+    a: "Shallow French drain pipes can usually be flushed with a hose. A cleanout port at the high end makes that easy. Keep the outlet clear of leaves and mulch and check it after big storms."
+  - q: "Do I need to call 811 before installing a French drain?"
+    a: "Yes. North Carolina law requires notice at least three full working days before digging so buried utilities get marked."
 ---
 
 # French Drain Installation in Raleigh
@@ -25,7 +37,9 @@ It's the most common fix for a Raleigh yard that stays wet after rain, and one o
 - **Water dumping out of downspouts.** [Underground downspout lines](/underground-downspouts/) fix the source.
 - **No low spot to drain to.** A [dry well](/dry-wells/) can hold the water and let it soak in.
 
-Many yards need a combination. A good contractor walks the property in the rain, or right after it, before recommending anything.
+Many yards need a combination. A good drainage pro walks the property in the rain, or right after it, before recommending anything.
+
+{% figure "french-drain-cross-section.svg", "Cross-section of a French drain: filter fabric, washed gravel and a perforated pipe in a trench, with water seeping in from wet clay", "Water seeps into the gravel, enters the pipe and flows to an outlet." %}
 
 ## How installation works
 
@@ -51,6 +65,8 @@ Yard French drains in Raleigh typically run **$20 to $50 per linear foot**, or a
 ## Keeping it working
 
 Shallow French drain pipes can usually be cleaned by flushing them with a hose.<sup><a href="#s2">2</a></sup> A cleanout port at the high end makes that easy. Keep the outlet clear of leaves and mulch, and check it after big storms.
+
+{% include "faq.njk" %}
 
 <h2 id="sources">Sources</h2>
 <ol class="sources">

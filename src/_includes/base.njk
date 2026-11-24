@@ -12,6 +12,8 @@
   <meta property="og:type" content="website">
   <link rel="stylesheet" href="/css/style.css">
   {% if jsonld %}<script type="application/ld+json">{{ jsonld | safe }}</script>{% endif %}
+  {% if service %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","serviceType":{{ service | dump | safe }},"url":{{ (site.url + page.url) | dump | safe }},"areaServed":[{% for a in site.areas %}{"@type":"City","name":{{ (a + ", NC") | dump | safe }}}{% if not loop.last %},{% endif %}{% endfor %}]}</script>{% endif %}
+  {% if faq %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{% for f in faq %}{"@type":"Question","name":{{ f.q | dump | safe }},"acceptedAnswer":{"@type":"Answer","text":{{ f.a | dump | safe }}}}{% if not loop.last %},{% endif %}{% endfor %}]}</script>{% endif %}
 </head>
 <body>
   <header class="top">
@@ -44,6 +46,8 @@
         <a href="/water-pooling-by-foundation/">Water by the foundation</a>
         <a href="/cary/">Cary</a>
         <a href="/apex/">Apex</a>
+        <a href="/wake-forest/">Wake Forest</a>
+        <a href="/holly-springs/">Holly Springs</a>
       </nav>
       <nav class="foot-nav">
         <a href="/">Home</a>
@@ -51,7 +55,7 @@
         <a href="/privacy/">Privacy</a>
         <a href="/terms/">Terms</a>
       </nav>
-      <p class="disclosure">{{ site.name }} is a free referral service, not a contractor. When you call or send a request, we connect you with an independent local drainage contractor, and we may be paid by the contractors we connect you with. Contractors are independent businesses, so ask for proof of license and insurance before you hire. Calls may be recorded for quality and accountability.</p>
+      <p class="disclosure small">{{ site.name }} connects homeowners with local drainage pros. It's free for you, and we may be paid by the pros we refer. Calls may be recorded. <a href="/how-this-works/">How this works</a></p>
       <p class="small">&copy; {{ site.year }} {{ site.name }}</p>
     </div>
   </footer>

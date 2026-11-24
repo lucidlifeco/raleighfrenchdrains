@@ -51,3 +51,10 @@ th { background: #f2f5f8; }
   padding: 16px; text-decoration: none; font-size: 1.1rem;
 }
 @media (min-width: 900px) { .sticky-call { display: none; } body { padding-bottom: 0; } }
+
+/* Diagrams and photos */
+.fig { margin: 1.4rem 0; }
+.fig img { display: block; width: 100%; height: auto; border-radius: 6px; border: 1px solid #dde3e8; }
+.fig figcaption { font-size: 0.85rem; color: #555; margin-top: 6px; }
+.faq h3 { margin-top: 1.2rem; }
+.faq p { margin-top: 0.2rem; }

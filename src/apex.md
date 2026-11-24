@@ -7,7 +7,7 @@ permalink: /apex/
 
 # French Drains and Yard Drainage in Apex
 
-A backyard that stays wet, water against the foundation, or beds that wash out every storm: if that sounds like your Apex yard, it's usually fixable. We connect Apex homeowners with independent local drainage contractors for French drains, regrading, catch basins, downspout lines, and dry wells.
+A backyard that stays wet, water against the foundation, or beds that wash out every storm: if that sounds like your Apex yard, it's usually fixable. We connect Apex homeowners with local drainage pros for French drains, regrading, catch basins, downspout lines, and dry wells.
 
 <p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call {{ site.phone }}</a></p>
 
@@ -32,7 +32,9 @@ What that means for a French drain or buried downspout line:
 
 - Plan an outlet on your own property, such as a pop-up emitter, a [dry well](/dry-wells/), or a spot where water can spread out on lower ground.
 - Don't plan to pipe water into a neighbor's yard or straight to the curb.
-- Ask your contractor how they'll handle the outlet before work starts. If they're unsure, check with the Town.
+- Ask your drainage pro how they'll handle the outlet before work starts. If they're unsure, check with the Town.
+
+{% figure "underground-downspout.svg", "A downspout connected to a buried pipe ending at a pop-up emitter in the lawn", "A pop-up emitter keeps the outlet on your own property." %}
 
 ## Apex's own advice
 

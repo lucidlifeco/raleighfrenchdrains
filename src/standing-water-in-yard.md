@@ -34,6 +34,8 @@ One inch of rain on a half-acre lot is about 13,577 gallons of water.<sup><a hre
 
 Much of the area sits on red clay. Cecil soil, North Carolina's state soil, has a firm, sticky clay subsoil.<sup><a href="#s4">4</a></sup> When construction strips topsoil and packs that clay down, rain soaks in slowly and low spots hold water.
 
+{% figure "clay-soil.svg", "Two panels: topsoil soaking up rain on undisturbed ground, and water sitting on packed clay after construction", "Packed clay after construction is why so many Raleigh yards hold water." %}
+
 ## Is the town responsible?
 
 Usually not. Raleigh Stormwater maintains the stormwater system on public streets and property, and homeowners are responsible for stormwater pipes and streams on their own property.<sup><a href="#s5">5</a></sup> Cary and Apex work the same way. See our [Cary](/cary/) and [Apex](/apex/) pages for the details there.
@@ -44,7 +46,7 @@ If the water comes from a public street or a clogged public storm drain, report 
 
 1. **Watch the next storm.** Note where water comes from, where it collects, and how long it stays. Photos help.
 2. **Check the easy things first.** Clean gutters, and extend downspouts away from the house.
-3. **Get the yard looked at.** A drainage contractor can tell you which fix, or combination, your yard needs and what it will cost. See typical prices in our [Raleigh French drain cost guide](/french-drain-cost-raleigh/).
+3. **Get the yard looked at.** A drainage pro can tell you which fix, or combination, your yard needs and what it will cost. See typical prices in our [Raleigh French drain cost guide](/french-drain-cost-raleigh/).
 
 <h2 id="sources">Sources</h2>
 <ol class="sources">

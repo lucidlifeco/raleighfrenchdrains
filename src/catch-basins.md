@@ -3,6 +3,16 @@ layout: base.njk
 title: "Catch Basin Installation in Raleigh, NC"
 description: "What a catch basin does, where it fixes standing water in Raleigh yards, what it costs, and how to keep it working."
 permalink: /catch-basins/
+service: "Catch basin installation"
+faq:
+  - q: "What does a catch basin do?"
+    a: "A catch basin is a grated box set at the low spot where water collects. Debris settles to the bottom, and a solid pipe carries the water to an outlet such as the street, a ditch, a dry well, or lower ground."
+  - q: "How much does a catch basin cost in Raleigh?"
+    a: "A catch basin installation typically runs $590 to $1,970 in Raleigh. The price depends mainly on how far the pipe has to run to reach an outlet."
+  - q: "Do I need a French drain with a catch basin?"
+    a: "Often. A catch basin is a collection point, not a whole system. Most are paired with buried pipe, and often with a French drain or underground downspout lines."
+  - q: "How do I maintain a catch basin?"
+    a: "Clear leaves and mulch off the grate, scoop sediment out of the bottom a couple of times a year, and check the outlet after big storms."
 ---
 
 # Catch Basin Installation in Raleigh
@@ -14,6 +24,8 @@ If water collects in the same low spot every time it rains, such as the corner o
 A catch basin is a box set into the ground at the low spot, with a grate on top. Water flows in through the grate, any debris settles to the bottom, and a solid pipe carries the water to an outlet: the street, a ditch, a [dry well](/dry-wells/), or lower ground.
 
 It's a collection point, not a whole system. Most catch basins are paired with buried pipe, and often with a [French drain](/french-drain-installation/) or [underground downspout lines](/underground-downspouts/).
+
+{% figure "catch-basin.svg", "Cross-section of a catch basin: a grated box at the low spot with debris settled at the bottom and a solid pipe running to an outlet", "Water enters through the grate, debris settles, and a solid pipe carries the water away." %}
 
 ## Good places for a catch basin
 
@@ -37,6 +49,8 @@ For a complete drainage plan, see the [Raleigh French drain cost guide](/french-
 ## Before installation
 
 Call 811 at least three full working days before digging so utility lines are marked.<sup><a href="#s2">2</a></sup> And plan the outlet so the water doesn't end up on a neighbor's property. North Carolina's reasonable use rule can make you liable if it causes unreasonable harm.<sup><a href="#s3">3</a></sup>
+
+{% include "faq.njk" %}
 
 <h2 id="sources">Sources</h2>
 <ol class="sources">

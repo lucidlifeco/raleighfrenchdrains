@@ -7,7 +7,7 @@ permalink: /cary/
 
 # French Drains and Yard Drainage in Cary
 
-Cary's own stormwater guidance lists yard flooding, yard erosion, and excess runoff from other properties among the common drainage issues it helps residents with.<sup><a href="#s4">4</a></sup> We connect Cary homeowners with independent local drainage contractors who handle French drains, regrading, catch basins, and downspout lines.
+Cary's own stormwater guidance lists yard flooding, yard erosion, and excess runoff from other properties among the common drainage issues it helps residents with.<sup><a href="#s4">4</a></sup> We connect Cary homeowners with local drainage pros who handle French drains, regrading, catch basins, and downspout lines.
 
 <p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call {{ site.phone }}</a></p>
 
@@ -27,6 +27,8 @@ For more detail, see the [Raleigh-area French drain cost guide](/french-drain-co
 **Drainage easements matter.** Easements on recorded plats give upstream owners the right to drain stormwater runoff across downstream properties.<sup><a href="#s4">4</a></sup> If a drainage easement runs through your yard, check it before planning any work there.
 
 **Ponds belong to the HOA.** Stormwater ponds in Cary neighborhoods are usually built as stormwater control measures, and the homeowners association maintains them.<sup><a href="#s5">5</a></sup>
+
+{% figure "grading-and-swale.svg", "Ground sloping away from a house with a grassy swale carrying water toward lower ground", "Swales and regrading work with the natural flow of water, not against it." %}
 
 ## Changing drainage on your property
 

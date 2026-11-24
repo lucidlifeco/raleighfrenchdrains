@@ -3,6 +3,16 @@ layout: base.njk
 title: "Yard Regrading and Swales in Raleigh, NC"
 description: "When regrading or a swale is the right drainage fix, the 6-inch rule for slope around your foundation, and what grading costs in Raleigh."
 permalink: /yard-grading-swales/
+service: "Yard regrading and drainage swales"
+faq:
+  - q: "How much should my yard slope away from the house?"
+    a: "The International Residential Code, which North Carolina's residential code is based on, says the ground should fall at least 6 inches within the first 10 feet of the foundation."
+  - q: "What's the difference between regrading and a swale?"
+    a: "Regrading reshapes the soil so water flows away from the house. A swale is a shallow, grassy channel that steers surface water around a problem area toward a lower spot."
+  - q: "How much does yard grading cost in Raleigh?"
+    a: "Minor grading or resloping in Raleigh averages about $1,895, with most jobs between $844 and $3,041. A swale typically runs $5 to $15 per foot."
+  - q: "Can I regrade so water runs onto my neighbor's yard?"
+    a: "Be careful. North Carolina's reasonable use rule lets you change how water drains on your land, but you can be liable if the change causes unreasonable harm next door."
 ---
 
 # Yard Regrading and Swales in Raleigh
@@ -16,6 +26,8 @@ Sometimes the problem isn't missing pipe. It's the shape of the ground. If your 
 **A swale** is a shallow, grassy channel that steers surface water around a problem area and toward a lower spot. Swales work well along property lines and at the bottom of slopes.
 
 Neither fix needs buried pipe, so both are easy to maintain. They handle water moving across the surface. For ground that stays saturated, a [French drain](/french-drain-installation/) is usually the better tool.
+
+{% figure "grading-and-swale.svg", "Ground sloping at least 6 inches away from a house in the first 10 feet, with a grassy swale carrying water away", "Regrading moves water away from the house, and a swale steers it to lower ground." %}
 
 ## The 6-inch rule around your foundation
 
@@ -35,6 +47,8 @@ Over time, settling soil, new mulch beds, and patios can flatten or reverse that
 - **Don't push water onto a neighbor.** North Carolina's reasonable use rule lets you change how water drains on your land, but you can be liable if the change causes unreasonable harm next door.<sup><a href="#s8">8</a></sup>
 - **Check easements and your HOA.** Many subdivisions have recorded drainage easements, and HOA rules may control grading and landscaping.
 - **Call 811 before digging** to get utility lines marked.
+
+{% include "faq.njk" %}
 
 <h2 id="sources">Sources</h2>
 <ol class="sources">
