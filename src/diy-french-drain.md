@@ -62,6 +62,8 @@ In Raleigh that soil is often packed red clay: heavy when dry, sticky when wet. 
 - **The outlet.** The water has to go somewhere lower and legal. In clay, a poor outlet can just move the bog a few feet over.
 - **Utilities.** North Carolina law requires calling NC 811 at least three full working days before you dig.<sup><a href="#s10">10</a></sup>
 
+{% figure "utility-flags-trench-dig.webp", "A worker digging beside small utility marking flags in a lawn", "Utility flags mark buried lines. Call NC 811 before anyone digs.", 1100, 565 %}
+
 ## When DIY makes sense
 
 - The run is short, roughly 50 feet or less<sup><a href="#s1">1</a></sup>

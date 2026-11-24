@@ -22,6 +22,8 @@ Sometimes the problem isn't missing pipe. It's the shape of the ground. If your 
 <p class="top-cta">Not sure if your yard slopes the wrong way? Ask a local pro.</p>
 <p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
+{% figure "backyard-regrading.webp", "A backyard stripped to bare soil and regraded behind a brick house", "Regrading reshapes the soil so water runs away from the house.", 1100, 752 %}
+
 ## Regrading vs. a swale
 
 **Regrading** reshapes the soil so water flows away from the house. It's the go-to fix when the ground next to the foundation is flat or slopes the wrong way.

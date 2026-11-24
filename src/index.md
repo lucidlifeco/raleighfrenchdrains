@@ -24,6 +24,8 @@ Call now to speak with a local drainage pro. Get a straight answer on the likely
 
 <p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
+{% figure "flooded-backyard-rain.webp", "Rainwater running across a backyard lawn and patio during a storm", "When rain has nowhere to go, it runs across the yard and pools by the house.", 1100, 694 %}
+
 ## Signs your yard needs drainage work
 
 - Puddles that are still there a day after the rain stops

@@ -12,6 +12,8 @@ A few puddles right after a storm are normal. Water that's still there a day or 
 <p class="top-cta">Water still there a day later? Talk to a local pro.</p>
 <p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
+{% figure "standing-water-lawn.webp", "A long puddle of standing water on a green lawn after rain", "Water that's still sitting a day after rain usually means a drainage problem.", 1100, 414 %}
+
 ## How long is too long?
 
 Water that stands for five days or more can become a mosquito breeding site.<sup><a href="#s1">1</a></sup> According to the CDC, a mosquito egg takes about 7 to 10 days to develop into an adult.<sup><a href="#s2">2</a></sup> If your low spots routinely hold water for days after rain, it's worth fixing.

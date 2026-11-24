@@ -24,6 +24,8 @@ A French drain is a trench lined with filter fabric, filled with gravel, and lai
 <p class="top-cta">Wondering if a French drain fits your yard? Ask a local pro.</p>
 <p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
+{% figure "muddy-drainage-trench.webp", "A shovel lifting muddy water out of a waterlogged drainage trench", "Wet clay holds water. A French drain gives it a path out.", 1100, 733 %}
+
 It's the most common fix for a Raleigh yard that stays wet after rain, and one of the most misunderstood. Here's what to know before you get quotes.
 
 ## When a French drain is the right fix
