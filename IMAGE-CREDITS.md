@@ -12,5 +12,6 @@ Photos are from Pexels (free for commercial use, no attribution required). Kept 
 | src/img/downspout-gushing-rain.webp | pexels-terrance-moon-159773-529964 |
 | src/img/downspouts-at-foundation.webp | pexels-robertkso-12343741 (cropped) |
 | src/img/downspout-rock-bed.webp | pexels-alexfalconer-8500497 (cropped) |
+| src/img/catch-basin-grate-leaves.webp | pexels-moklebust-21628697 (cropped) |
 
 Diagrams (*.svg) are original.

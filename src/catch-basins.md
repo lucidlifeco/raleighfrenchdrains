@@ -22,6 +22,8 @@ If water collects in the same low spot every time it rains, such as the corner o
 <p class="top-cta">Same low spot every storm? Ask a local pro about a catch basin.</p>
 <p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
+{% figure "catch-basin-grate-leaves.webp", "Fallen leaves on a drain grate with water visible below", "Leaves and debris on the grate are the main reason catch basins back up.", 800, 864 %}
+
 ## What a catch basin is
 
 A catch basin is a box set into the ground at the low spot, with a grate on top. Water flows in through the grate, any debris settles to the bottom, and a solid pipe carries the water to an outlet: the street, a ditch, a [dry well](/dry-wells/), or lower ground.
