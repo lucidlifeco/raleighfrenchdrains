@@ -5,7 +5,7 @@ description: "How Raleigh French Drains handles your information."
 permalink: /privacy/
 ---
 
-# Privacy policy
+# Privacy Policy
 
 Last updated November 2026.
 
@@ -17,7 +17,7 @@ Last updated November 2026.
 
 **Who we share it with.** The contractor we connect you with, and the service providers we use to run this site and route calls. We don't sell your information to data brokers.
 
-**Text messages.** If we miss your call, we may send one text message to the number you called from so you can reply about your project. Message and data rates may apply. Reply STOP to opt out. We don't sell or share mobile numbers or text messaging consent with third parties for their marketing.
+**Text messages.** If we miss your call, we may send one text message to the number you called from so you can reply about your project. Message and data rates may apply. Reply STOP to opt out. We do not sell or share your SMS opt-in data or personal information with third parties for marketing purposes.
 
 **How long we keep it.** We keep call records and requests only as long as we need them for the purposes above.
 

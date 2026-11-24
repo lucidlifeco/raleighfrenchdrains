@@ -1,11 +1,11 @@
 ---
 layout: base.njk
-title: "Terms of Use | Raleigh French Drains"
-description: "Terms of use for Raleigh French Drains."
+title: "Terms of Service | Raleigh French Drains"
+description: "Terms of Service, including SMS terms, for Raleigh French Drains."
 permalink: /terms/
 ---
 
-# Terms of use
+# Terms of Service
 
 Last updated November 2026.
 
@@ -19,7 +19,10 @@ Last updated November 2026.
 
 **No warranty.** This site is provided as is. To the extent the law allows, we aren't liable for losses arising from your use of the site or from work done by any contractor.
 
-<h2 id="text-messages">Text messages</h2>
+<h2 id="sms-terms">SMS Terms</h2>
+<span id="text-messages"></span>
+
+**Program.** {{ site.name }} missed-call text replies.
 
 **What you'll get.** If you call {{ site.phone }} and we miss the call, we may send one text to the number you called from so you can tell us about your drainage problem. If you reply, we'll text back about your request. Calling the number is how you agree to these texts.
 
