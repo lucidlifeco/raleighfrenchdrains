@@ -20,6 +20,8 @@ New neighborhoods, graded lots and backyards that slope toward each other: Holly
 
 <p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
+{% figure "backyard-regrading.webp", "A backyard stripped to bare soil and regraded behind a brick house", "Newer lots are often graded fast, and the slope is where drainage problems start.", 1100, 752 %}
+
 ## Lot drainage is a private matter here
 
 Holly Springs is direct about this. The Town says it does not regulate drainage from private lots, and storm drainage issues between property owners are a civil matter.<sup><a href="#s1">1</a></sup> It does ask residents making landscape changes that affect water flow to take their neighbor's property into consideration.<sup><a href="#s1">1</a></sup>

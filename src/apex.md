@@ -11,6 +11,8 @@ A backyard that stays wet, water against the foundation, or beds that wash out e
 
 <p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
+{% figure "downspout-gushing-rain.webp", "Rainwater pouring out of a downspout during a storm", "Roof water has to land on your own property, so where downspouts empty matters.", 1100, 825 %}
+
 ## What drainage work costs in Apex
 
 - **Drainage installation projects** in Apex average about **$2,893**. The full range runs from about $900 to $6,800 depending on the job.<sup><a href="#s1">1</a></sup>

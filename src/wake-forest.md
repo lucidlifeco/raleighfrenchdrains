@@ -18,6 +18,8 @@ Water standing in the backyard after every storm, a soggy side yard, or runoff w
 
 <p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
+{% figure "flooded-backyard-rain.webp", "Rainwater running across a backyard lawn and patio during a storm", "Runoff from uphill yards is a common Wake Forest drainage problem.", 1100, 694 %}
+
 ## Where the Town's responsibility ends
 
 Wake Forest draws a clear line in its development ordinance. Drainage easements are public only to the end of a storm drainage pipe system. Past that point, drainage runs through private easements owned and maintained by the individual property owner, both inside town limits and in the ETJ.<sup><a href="#s1">1</a></sup>

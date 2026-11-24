@@ -11,6 +11,8 @@ Cary's own stormwater guidance lists yard flooding, yard erosion, and excess run
 
 <p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
+{% figure "standing-water-lawn.webp", "A long puddle of standing water on a green lawn after rain", "Low spots that hold water after every storm are the most common yard complaint.", 1100, 414 %}
+
 ## What a French drain costs in Cary
 
 - **Per foot:** French drains in Cary run about **$23 to $36 per linear foot**.<sup><a href="#s1">1</a></sup>
