@@ -21,6 +21,22 @@
       <a class="brand" href="/">{{ site.name }}</a>
       <a class="call-btn" href="tel:{{ site.phoneHref }}">Call {{ site.phone }}</a>
     </div>
+    <nav class="menu" aria-label="Main">
+      <div class="wrap menu-inner">
+        {%- for m in nav %}
+        {%- if m.items %}
+        <details class="menu-group">
+          <summary>{{ m.label }}</summary>
+          <div class="menu-panel">
+            {%- for i in m.items %}<a href="{{ i.url }}"{% if page.url == i.url %} aria-current="page"{% endif %}>{{ i.label }}</a>{% endfor %}
+          </div>
+        </details>
+        {%- else %}
+        <a class="menu-link" href="{{ m.url }}"{% if page.url == m.url %} aria-current="page"{% endif %}>{{ m.label }}</a>
+        {%- endif %}
+        {%- endfor %}
+      </div>
+    </nav>
   </header>
 
   <main class="wrap">
@@ -61,5 +77,19 @@
   </footer>
 
   <a class="sticky-call" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a>
+  <script>
+    // Keep one menu open at a time; close on outside tap or Escape.
+    (function () {
+      var groups = document.querySelectorAll(".menu-group");
+      groups.forEach(function (g) {
+        g.addEventListener("toggle", function () {
+          if (g.open) groups.forEach(function (o) { if (o !== g) o.open = false; });
+        });
+      });
+      function closeAll() { groups.forEach(function (g) { g.open = false; }); }
+      document.addEventListener("click", function (e) { if (!e.target.closest(".menu-group")) closeAll(); });
+      document.addEventListener("keydown", function (e) { if (e.key === "Escape") closeAll(); });
+    })();
+  </script>
 </body>
 </html>
