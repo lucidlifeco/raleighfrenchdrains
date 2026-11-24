@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Yard Regrading and Swales in Raleigh, NC"
-description: "When regrading or a swale is the right drainage fix, the 6-inch rule for slope around your foundation, and what grading costs in Raleigh."
+description: "When regrading or a swale fixes a Raleigh yard, the 6-inch slope rule, and what grading costs. Call a local drainage pro for a free estimate."
 permalink: /yard-grading-swales/
 service: "Yard regrading and drainage swales"
 faq:
@@ -18,6 +18,9 @@ faq:
 # Yard Regrading and Swales in Raleigh
 
 Sometimes the problem isn't missing pipe. It's the shape of the ground. If your yard slopes toward the house, or water sheets across the lawn and collects in the same place every storm, reshaping the ground is often the simplest and cheapest fix.
+
+<p class="top-cta">Not sure if your yard slopes the wrong way? Ask a local pro.</p>
+<p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
 ## Regrading vs. a swale
 

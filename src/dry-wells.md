@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Dry Well Installation in Raleigh, NC"
-description: "When a dry well makes sense for a Raleigh yard with nowhere to drain, why clay soil matters, and what a dry well costs."
+description: "When a dry well makes sense for a Raleigh yard with nowhere to drain, why clay matters, and what it costs. Call a local pro for a free estimate."
 permalink: /dry-wells/
 service: "Dry well installation"
 faq:
@@ -18,6 +18,9 @@ faq:
 # Dry Well Installation in Raleigh
 
 Every drainage fix needs somewhere to send the water. When there's no lower ground, ditch, or street within reach, a dry well can be the answer: a buried pit that holds runoff and lets it soak into the ground slowly.
+
+<p class="top-cta">No good place for the water to go? Ask a local pro about a dry well.</p>
+<p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
 ## How a dry well works
 

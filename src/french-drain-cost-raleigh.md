@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "French Drain Cost in Raleigh, NC (2026 Prices)"
-description: "What a French drain costs in Raleigh: $20-$50 per foot installed, typical projects, costs by length and drain type, NC rules to know, and how to get an accurate quote."
+description: "French drains in Raleigh cost $20-$50 per foot installed. See typical projects and costs by drain type, then call a local pro for a free estimate."
 permalink: /french-drain-cost-raleigh/
 jsonld: >-
   {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
@@ -18,6 +18,9 @@ jsonld: >-
 <p><strong>Short answer:</strong> Most yard French drains in Raleigh cost <strong>$20 to $50 per linear foot</strong> installed, or about <strong>$1,970 to $6,880</strong> for a typical project.<sup><a href="#s1">1</a></sup> A shorter 60-foot drain often comes in around <strong>$1,470 to $2,300</strong>.<sup><a href="#s2">2</a></sup></p>
 <p>The biggest factors are how long and deep the drain is, how hard the digging is, and where the water can go.</p>
 </div>
+
+<p class="top-cta">Want a price for your yard instead of a range? Call a local pro for a free estimate.</p>
+<p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
 ## Raleigh French drain cost by length
 

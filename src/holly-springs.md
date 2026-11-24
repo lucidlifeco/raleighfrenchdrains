@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "French Drains & Yard Drainage in Holly Springs, NC"
-description: "Drainage help for Holly Springs homeowners: why the Town treats lot drainage as a private matter, drainage easements on your plat, impervious limits, and what fixes cost."
+description: "Drainage help for Holly Springs homeowners: easements, impervious limits, neighbor runoff, and costs. Call a local pro for a free estimate."
 permalink: /holly-springs/
 faq:
   - q: "Does the Town of Holly Springs regulate drainage between neighbors?"
@@ -16,9 +16,9 @@ faq:
 
 # French Drains and Yard Drainage in Holly Springs
 
-New neighborhoods, graded lots and backyards that slope toward each other: Holly Springs has plenty of yards where water collects after a storm. We connect Holly Springs homeowners with local drainage pros for French drains, regrading, catch basins, downspout lines, and dry wells.
+New neighborhoods, graded lots and backyards that slope toward each other: Holly Springs has plenty of yards where water collects after a storm. Talk to a local drainage pro who works in Holly Springs: French drains, regrading, catch basins, downspout lines and dry wells. One call gets you started.
 
-<p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call {{ site.phone }}</a></p>
+<p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
 ## Lot drainage is a private matter here
 

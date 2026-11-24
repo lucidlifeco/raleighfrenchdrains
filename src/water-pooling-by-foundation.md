@@ -1,13 +1,16 @@
 ---
 layout: base.njk
 title: "Water Pooling by Your Foundation? Fixes for Raleigh Homes"
-description: "Why water collects against a Raleigh home's foundation, the slope the building code calls for, and the fixes that move water away for good."
+description: "Why water collects against Raleigh foundations, the slope the code calls for, and the fixes that move it away. Talk to a local drainage pro today."
 permalink: /water-pooling-by-foundation/
 ---
 
 # Water Pooling by Your Foundation
 
 Water that sits against your foundation is the drainage problem to fix first. It soaks the soil under the house, finds its way into crawl spaces, and keeps the area around your footings wet long after the rest of the yard dries out.
+
+<p class="top-cta">Water against the foundation is the one to fix first. Call a local pro.</p>
+<p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
 ## The slope your yard should have
 

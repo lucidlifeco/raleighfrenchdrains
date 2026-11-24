@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "French Drains & Yard Drainage in Wake Forest, NC"
-description: "Drainage help for Wake Forest homeowners: where the Town's responsibility ends, what the stormwater fee pays for, drainage disputes between neighbors, and what fixes cost."
+description: "Drainage help for Wake Forest homeowners: where the Town's role ends, neighbor runoff, and costs. Call a local drainage pro for a free estimate."
 permalink: /wake-forest/
 faq:
   - q: "Does the Town of Wake Forest fix drainage problems in my yard?"
@@ -14,9 +14,9 @@ faq:
 
 # French Drains and Yard Drainage in Wake Forest
 
-Water standing in the backyard after every storm, a soggy side yard, or runoff washing out beds: if that's your Wake Forest yard, it's usually fixable. We connect Wake Forest homeowners with local drainage pros for French drains, regrading, catch basins, downspout lines, and dry wells.
+Water standing in the backyard after every storm, a soggy side yard, or runoff washing out beds: if that's your Wake Forest yard, it's usually fixable. Talk to a local drainage pro who works in Wake Forest: French drains, regrading, catch basins, downspout lines and dry wells. One call gets you started.
 
-<p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call {{ site.phone }}</a></p>
+<p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
 ## Where the Town's responsibility ends
 

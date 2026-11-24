@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "French Drains & Yard Drainage in Raleigh, NC"
-description: "Standing water, a soggy yard, or water by the foundation? Get connected with a local Raleigh drainage pro for French drains, swales, catch basins and more."
+description: "Standing water, a soggy yard or water by the foundation? Call a local Raleigh drainage pro for French drains, regrading and more. Free to call."
 permalink: /
 faq:
   - q: "How much does a French drain cost in Raleigh?"
@@ -20,9 +20,9 @@ faq:
 
 Standing water after every storm. A soggy patch that never dries out. Water creeping toward the foundation or under the deck. These problems are common in Raleigh-area yards, and a French drain or another drainage fix usually solves them.
 
-<p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call {{ site.phone }}</a></p>
+Call now to speak with a local drainage pro. Get a straight answer on the likely fix and cost. Free to call, no obligation.
 
-We connect homeowners in {{ site.city }} and nearby towns with local drainage pros. Call, describe the problem, and an expert who does this work can come take a look and give you a price.
+<p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
 ## Signs your yard needs drainage work
 
@@ -59,7 +59,7 @@ Pipes that carry roof water away from the foundation instead of dumping it besid
 
 A buried pit that holds runoff and lets it soak into the ground slowly, for yards with no good outlet.
 
-A good drainage pro will tell you which of these your yard actually needs. Sometimes it's a combination.
+Not sure which one you need? A quick call with a local pro will point you to the right fix, or the right combination, for your yard.
 
 Not sure where to start? Read about [standing water in your yard](/standing-water-in-yard/) or [water pooling by your foundation](/water-pooling-by-foundation/).
 
@@ -73,14 +73,14 @@ Much of the Raleigh area sits on red clay. Cecil soil, North Carolina's state so
 
 Most yard French drains in Raleigh cost about **$20 to $50 per foot** installed, or roughly **$1,970 to $6,880** for a typical project ([Angi](https://www.angi.com/articles/how-much-does-it-cost-install-landscape-drainage/nc/raleigh)). See the full breakdown by length and drain type in our [Raleigh French drain cost guide](/french-drain-cost-raleigh/).
 
-## How this works
+## Get it fixed in 3 steps
 
-1. **Call or send a request.** Tell us where the water collects and what's happening.
-2. **We match you with a local drainage pro** who does this work in your part of town.
-3. **The pro looks at your yard and gives you a price.** You decide whether to go ahead. There's no obligation.
+1. **Call.** Talk through your situation with a local drainage pro.
+2. **Get answers on the call.** The likely cause, the likely fix, and a typical cost.
+3. **Get your free estimate.** A quick look at the yard turns that into a firm price. You decide.
 
 {% include "faq.njk" %}
 
-## Areas we cover
+## Areas served
 
 {{ site.areas | join(", ") }}, and nearby parts of {{ site.region }}. Town guides: [Cary](/cary/), [Apex](/apex/), [Wake Forest](/wake-forest/) and [Holly Springs](/holly-springs/).

@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "French Drain Installation in Raleigh, NC"
-description: "How a French drain works, when it's the right fix for a wet Raleigh yard, how installation goes, what it costs, and what to ask before you hire."
+description: "How a French drain works, when it's the right fix for a wet Raleigh yard, and what it costs. Call a local drainage pro for a free estimate."
 permalink: /french-drain-installation/
 service: "French drain installation"
 faq:
@@ -20,6 +20,9 @@ faq:
 # French Drain Installation in Raleigh
 
 A French drain is a trench lined with filter fabric, filled with gravel, and laid with a perforated pipe. Water in the soggy ground seeps into the gravel, enters the pipe, and flows downhill to an outlet away from your house and the problem area.
+
+<p class="top-cta">Wondering if a French drain fits your yard? Ask a local pro.</p>
+<p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
 It's the most common fix for a Raleigh yard that stays wet after rain, and one of the most misunderstood. Here's what to know before you get quotes.
 

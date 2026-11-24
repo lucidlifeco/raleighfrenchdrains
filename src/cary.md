@@ -1,15 +1,15 @@
 ---
 layout: base.njk
 title: "French Drains & Yard Drainage in Cary, NC"
-description: "Drainage help for Cary homeowners: French drain costs in Cary, who's responsible for drainage on private property, and what Cary's rules mean for your project."
+description: "Drainage help for Cary homeowners: French drain costs, who's responsible for private drainage, and Cary's rules. Call a local pro for a free estimate."
 permalink: /cary/
 ---
 
 # French Drains and Yard Drainage in Cary
 
-Cary's own stormwater guidance lists yard flooding, yard erosion, and excess runoff from other properties among the common drainage issues it helps residents with.<sup><a href="#s4">4</a></sup> We connect Cary homeowners with local drainage pros who handle French drains, regrading, catch basins, and downspout lines.
+Cary's own stormwater guidance lists yard flooding, yard erosion, and excess runoff from other properties among the common drainage issues it helps residents with.<sup><a href="#s4">4</a></sup> Talk to a local drainage pro who works in Cary: French drains, regrading, catch basins, downspout lines and dry wells. One call gets you started.
 
-<p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call {{ site.phone }}</a></p>
+<p><a class="call-btn big" href="tel:{{ site.phoneHref }}">Call now · {{ site.phone }}</a></p>
 
 ## What a French drain costs in Cary
 
